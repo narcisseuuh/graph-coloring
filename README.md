@@ -1,10 +1,6 @@
 # graph-coloring
 
 Graph-coloring using the NK quantum method using qiskit.
-The algorithm's pseudo code looks like this :
-```
-
-```
 
 ## Installation
 
